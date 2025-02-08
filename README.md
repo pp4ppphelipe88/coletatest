@@ -1,7 +1,7 @@
 <p align="center">
-      <img src="https://wallpapercave.com/uwp/uwp757693.gif" height="250px" width="300px" ></img>
+      
       <br><br>
-      Nivistealer coded by : swagkarna
+
  </p>
  
  ---
@@ -60,10 +60,4 @@ https://user-images.githubusercontent.com/46685308/156226849-ccce8ade-552a-49bd-
 #### Use this only for educational Purpose....  I am not responsible for your action...Love you Guys.. Stay safe !!! Stay legal !!!
 ---
 
-### ❤️Supporters❤️
-[![Stargazers repo roster for @swagkarna/Nivistealer](https://reporoster.com/stars/swagkarna/Nivistealer)](https://github.com/swagkarna/Nivistealer/stargazers)
 
-[![Forkers repo roster for @swagkarna/Nivistealer](https://reporoster.com/forks/swagkarna/Nivistealer)](https://github.com/swagkarna/Nivistealer/network/members)
-
----
-     
